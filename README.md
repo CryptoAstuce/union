@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente le bridge Union, ses light clients, messages, preuves, relayers, finalité et garanties anti-replay. Voir [docs/fr/README.md](docs/fr/README.md).
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/images/union-logo-white.svg">
